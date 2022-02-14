@@ -126,5 +126,5 @@ jobs:
       uses: actions/upload-artifact@master
       if: always()
       with:
-        name: Padavan-packages
+        name: ZTEe8820v2
         path: /opt/images
